@@ -37,8 +37,17 @@ th, td {
 .proline,
 .arginine,
 .threonine,
-.tryptophan {
+.tryptophan,
+.cysteine {
 	background-color: #01295F;
 	color:white;
 }
 
+img {
+	display: flex;
+	width:800px;
+	margin:auto;
+	margin-top:50px;
+
+
+}
